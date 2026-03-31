@@ -7,4 +7,7 @@ REG. NO.: 25BCE11097
 Digital Literacy Awareness Quiz
 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSc-ve7P5PBEW6CKqy_w2nVKIeccaxpM-nmkQlCsfKZmK_CrTw/viewform?usp=sharing&ouid=116221379566303766104
 
+GitHub profile README
+Repository Link: https://github.com/sweksharuhi/sweksharuhi
+
 
